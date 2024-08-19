@@ -13,7 +13,7 @@
 
 - 😎 Pronouns **He/Him/His**
 
-- 💍 I am married **04/12/2023**
+- 💍 I am married on **04/12/2023**
 
 - 🦾 I am interested in **Technology, Soccer⚽️**
 
