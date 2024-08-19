@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m7kz0123&label=Profile%20views&color=0e75b6&style=flat" alt="m7kz0123" /> </p>
 
-- 🔭 I’m a co-founder **Wuxi Xiaoli Education Technology Company**
+- 🔭 I’m a co-founder of **Wuxi Xiaoli Education Technology Company**
 
 - 🌱 I’m currently learning **Algorithm; Database; Data & Visual Analytics**
 
@@ -11,9 +11,9 @@
 
 - 🧑‍💻 I’m looking for **2025 Software Development Engineer Summer/Co-op Intern**
 
-- 😎 Pronouns [He/Him/His](He/Him/His)
+- 😎 Pronouns **He/Him/His**
 
-- 💍 I am married [04/12/2023](04/12/2023)
+- 💍 I am married **04/12/2023**
 
 - 🦾 I am interested in **Technology, Soccer**
 
